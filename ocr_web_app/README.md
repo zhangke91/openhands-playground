@@ -2,6 +2,8 @@
 
 A web application that extracts text from images using OCR (Optical Character Recognition) technology.
 
+![OCR Demo](https://example.com/ocr-demo.gif)
+
 ## Features
 
 - Upload images via drag-and-drop or file selection
